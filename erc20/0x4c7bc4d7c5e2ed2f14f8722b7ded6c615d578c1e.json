@@ -1,0 +1,29 @@
+{
+  "symbol": "ZCHAIN",
+  "address": "0x4c7bc4d7c5e2ed2f14f8722b7ded6c615d578c1e",
+  "overview":{
+        "en": "what is ZeroChain Network? Zchain (ZeroChain Network) is a token or new currency deliberately designed to facilitate digital marketing, Zchain is an airdrop platform that allows to connect new currency companies that are still in promotion to airdrop hunters already proficient in marketing.",
+        "zh": "Zchain（ZeroChain Network）是专为促进数字营销而设计的代币或新货币，Zchain是一个空投平台，可以将仍在推广中的新货币公司连接到已经精通市场营销的空投猎人"
+  },
+  "email": "support@zerochain.network",
+  "website": "https://zerochain.network,
+  "whitepaper": "https://zerochain.network/wp",
+  "state": "NORMAL",
+  "logo": "https://imgur.com/a/5oTwdRr"
+  "published_on": "2018-02-08",
+  "initial_price":{
+        "ETH":"0.000001ETH",
+        "USD":"0.0005 USD",
+        "BTC":"0.000002 BTC"
+  },
+  "links": {
+    "blog": "https://your-awesome-project.com/blog",
+    "twitter": "https://mobile.twitter.com/ZchainN",
+    "telegram": "https://t.me/joinchat/HdGvckboky13UasvVNzd3g",
+    "github": "https://gist.github.com/ZChainN1",
+    "facebook": "https://www.facebook.com/your-awesome-project",
+    "reddit": "https://www.reddit.com/r/your-awesome-project/",
+    "slack": "https://your-awesome-project.slack.com",
+    "medium": "https://medium.com/your-awesome-project"
+  }
+}
