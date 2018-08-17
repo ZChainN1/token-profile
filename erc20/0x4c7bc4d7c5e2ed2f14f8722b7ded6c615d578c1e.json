@@ -1,0 +1,28 @@
+{
+  "symbol": "ZCHAIN",
+  "address": "0x4c7bc4d7c5e2ed2f14f8722b7ded6c615d578c1e",
+  "overview":{
+        "en": "ZeroChain Network is an airdrop platform which connects projects to marketing.",
+        "zh": "ZeroChain Network是一个空投平台，将项目与营销联系起来"
+  },
+  "email": "support@zerochain.network",
+  "website": "https://zerochain.network/",
+  "whitepaper": "https://zerochain.network/gallery/whitepaper%20zchain%20(1).output.pdf",
+  "state": "LOCKED",
+  "published_on": "2018-08-17",
+  "initial_price":{
+        "ETH":"0.0000033 ETH",
+        "USD":"0.001 USD",
+        "BTC":"0.00000016 BTC"
+  },
+  "links": {
+    "blog": "none",
+    "twitter": "https://mobile.twitter.com/ZchainN",
+    "telegram": "https://t.me/joinchat/HdGvckboky13UasvVNzd3g",
+    "github": "https://github.com/ZChainN1",
+    "facebook": "none",
+    "reddit": "none",
+    "slack": "none",
+    "medium": "https://medium.com/@cryptobers/welcome-to-zerochain-network-dae5934b7b14"
+  }
+}
